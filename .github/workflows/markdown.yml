@@ -10,5 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Run markdownlint
-        uses: someone/markdownlint-action@v1
+
+# This workflow was replaced by `.github/workflows/markdown-lint.yml`.
+# Keeping this file as a no-op placeholder to avoid duplicate runs.
+
+name: Disabled - legacy markdown workflow
+
+on: []
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - name: No-op
+        run: echo "This workflow is intentionally disabled. Use .github/workflows/markdown-lint.yml instead."
