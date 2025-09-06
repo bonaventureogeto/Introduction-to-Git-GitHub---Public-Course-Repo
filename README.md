@@ -89,7 +89,3 @@ Want to improve the course? Open an issue or PR in this repo. If you plan to sub
 ## License
 
 MIT — see `LICENSE`.
-
----
-
-If you'd like I can also add a simple grading checklist or an automated markdown linter workflow to this repo next.
