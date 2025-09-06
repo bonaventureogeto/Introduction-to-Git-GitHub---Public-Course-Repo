@@ -106,7 +106,7 @@ Now Git has saved this version in history.
 2. Connect your local repo to GitHub:
 
    ```bash
-   git remote add origin https://github.com/username/my-first-repo.git
+   git remote add origin https://github.com/<your-username>/my-first-repo.git
    ```
 3. Push your commit:
 
