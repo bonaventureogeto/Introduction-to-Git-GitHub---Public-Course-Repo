@@ -124,7 +124,7 @@ Already up to date.
 3. Commit and push it to GitHub.
 4. Clone the repo to a new folder (e.g., `hello-remote-clone`).
 5. Add another line in `remote.txt` inside the cloned folder. Commit & push the update.
-6. **Submission:** Share the **GitHub repo link** in the LMS.
+6. **Submission:** Share the **GitHub repo link** in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S).
 
 **Rubric (100 pts)**
 

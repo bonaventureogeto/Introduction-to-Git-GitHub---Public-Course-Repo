@@ -124,7 +124,7 @@ Check GitHub → the updated file should be visible in the repo.
 3. Use `git diff` to check your changes.
 4. Stage and commit with a **descriptive commit message**.
 5. Push your changes to GitHub.
-6. **Submission:** Submit your repo link.
+6. **Submission:** Post your repo link in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S).
 
 **Rubric (100 pts)**
 

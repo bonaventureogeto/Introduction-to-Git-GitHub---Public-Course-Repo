@@ -141,7 +141,7 @@ You can also link a PR to an Issue.
    ```
 6. Push and open a PR, referencing the Issue in the description.
 7. Merge the PR → confirm Issue #1 closes and moves to **Done** on the board.
-8. **Submission:** Submit your **repo link + Issue link + Project Board link** in LMS.
+8. **Submission:** Post your **repo link + Issue link + Project Board link** in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S).
 
 **Rubric (100 pts)**
 

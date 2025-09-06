@@ -153,7 +153,7 @@ If the instructor allows outside PRs, you can also:
 5. Commit and push changes.
 6. Open a Pull Request in **your fork**.
 7. (Optional advanced) Open a PR to the original `Introduction-to-Git-GitHub---Public-Course-Repo`.
-8. **Submission:** Submit the **link to your Pull Request** in the LMS.
+8. **Submission:** Post the **link to your Pull Request** in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S).
 
 **Rubric (100 pts)**
 

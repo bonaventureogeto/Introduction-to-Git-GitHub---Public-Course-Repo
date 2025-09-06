@@ -129,7 +129,7 @@ Check GitHub → you should see `about-me.txt` online 🎉
    * Why you are learning Git/GitHub
 4. Stage and commit the file.
 5. Push the repository to GitHub.
-6. **Submission:** Submit your GitHub repo link in the LMS.
+6. **Submission:** Post your GitHub repo link in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S).
 
 **Rubric (100 pts)**
 

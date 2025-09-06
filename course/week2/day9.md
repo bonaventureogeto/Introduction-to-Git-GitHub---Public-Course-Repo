@@ -152,7 +152,7 @@ For now: **students should only use reset to unstage changes**.
 
    * Then use `git revert` to undo that commit.
 3. Push all changes to GitHub.
-4. **Submission:** Submit your GitHub repo link in the LMS.
+4. **Submission:** Post your GitHub repo link in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S).
 
 **Rubric (100 pts)**
 

@@ -161,7 +161,7 @@ git commit -m "Resolve merge conflict by combining color preferences"
    * Merge `feature-conflict` into `main` to trigger a conflict.
    * Resolve the conflict by keeping **both languages** in the file. Commit the resolution.
    * Push the updated repo to GitHub.
-2. **Submission:** Submit your GitHub repo link in the LMS.
+2. **Submission:** Post your GitHub repo link in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S).
 
 **Rubric (100 pts)**
 

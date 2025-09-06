@@ -152,6 +152,8 @@ Each team submits **one project**:
 3. Project Board link.
 4. Each student must indicate **which file/page** they contributed.
 
+Please post all links in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S). One team member should post the final submission and tag the teammates.
+
 ---
 
 ## 7. Rubric (100 pts)
@@ -160,7 +162,7 @@ Each team submits **one project**:
 * Branches created & named properly: 20 pts
 * PRs opened with clear titles & descriptions: 20 pts
 * Peer reviews completed: 20 pts
-* Project Board maintained & links submitted: 20 pts
+* Project Board maintained & links posted in Discord: 20 pts
 
 ---
 

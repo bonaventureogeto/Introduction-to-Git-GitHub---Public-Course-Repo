@@ -156,7 +156,7 @@ Your repo is now live on GitHub 🎉
 5. Push your changes to GitHub.
 6. **Submission:**
 
-   * Share the **GitHub repository link** in the LMS.
+   * Share the **GitHub repository link** on [Discord](https://discord.gg/CP6vJQbA8S).
    * The repo should contain your `setup.txt` file and the first commit.
 
 **Rubric (100 pts)**

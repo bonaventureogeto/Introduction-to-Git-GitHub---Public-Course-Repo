@@ -159,8 +159,8 @@ You can safely delete the branch.
 4. Once reviewed, merge the PR into `main`.
 5. **Submission:**
 
-   * Submit the **link to your Pull Request** in the LMS.
-   * Submit the **link to your final repo** after merging.
+   * Post the **link to your Pull Request** in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S).
+   * After merging, post the **link to your final repo** in the same channel.
 
 **Rubric (100 pts)**
 

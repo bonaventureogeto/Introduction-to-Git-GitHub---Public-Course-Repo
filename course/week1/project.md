@@ -123,8 +123,8 @@ Now your profile repo has two commits:
 
    * `main` branch (with final merged changes).
    * `feature-update` branch (where you created the PR).
-2. Submit the **link to your GitHub repository** in the LMS.
-3. Submit the **link to your Pull Request** (even if already merged).
+2. Post the **link to your GitHub repository** in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S).
+3. Post the **link to your Pull Request** (even if already merged) in the same channel.
 
 ---
 
@@ -134,7 +134,7 @@ Now your profile repo has two commits:
 * README.md created with bio and goals: 20 pts
 * Feature branch created and updated: 20 pts
 * PR opened, filled with template, and merged: 30 pts
-* Correct links submitted in LMS: 10 pts
+* Correct links posted in Discord: 10 pts
 
 ---
 

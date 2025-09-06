@@ -181,13 +181,12 @@ Now, if you check your repo on GitHub, you’ll see **two branches**: `main` and
    * Commit and push the branch to GitHub.
 2. Switch back to `main` and confirm the file is missing there.
 3. Switch again to `feature-intro` and confirm the file appears.
-4. **Submission:**
+4. **Submission:** Post the **GitHub repo link** and both branch names in the "intro to git and github" channel on Discord (invite: https://discord.gg/CP6vJQbA8S). Please include:
 
-   * Submit the **GitHub repo link**.
-   * In your LMS submission text box, paste both branch names:
-
-     ```
-     main  
+```
+main
+feature-intro
+```
      feature-intro  
      ```
 
