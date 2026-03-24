@@ -88,4 +88,4 @@ Want to improve the course? Open an issue or PR in this repo. If you plan to sub
 
 ## License
 
-MIT — see `LICENSE`.
+MIT — see `LICENSE`."New feature added" 
